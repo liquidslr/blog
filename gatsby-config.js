@@ -17,12 +17,13 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `liquid_slr`,
     },
   },
+  pathPrefix: '/blog',
   plugins: [
-    'gatsby-plugin-dark-mode',
     `gatsby-plugin-image`,
+    'gatsby-plugin-dark-mode',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
