@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Personal Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 13 Jun 2024 04:33:33 GMT</lastBuildDate><item><title><![CDATA[My first Big Data hackathon!]]></title><description><![CDATA[I have always loved participating in hackathons as they give you a chance to apply your knowledge to solve real-world problems. This year, I…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/big-data-hackathon/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/big-data-hackathon/</guid><pubDate>Fri, 26 Jan 2024 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;I have always loved participating in hackathons as they give you a chance to apply your knowledge to solve real-world problems. This year, I got the opportunity to participate in the &lt;a href=&quot;https://bigdata.sc.edu/about/&quot;&gt;5th National Big Data Health Science Student Case Competition&lt;/a&gt;. It&apos;s an annual event organized by USC to promote the use of Big Data analytics in healthcare research (Spoiler Alert: We won!).&lt;/p&gt;
+&lt;p&gt;The hackathon spans 48 hours and is divided into two stages. The first stage is a qualifying round for the finals. Around 30 teams from 17 universities, including Duke, Yale, and Boston University, participated. The data came from the lab work of Drs. Ana Pocivavsek and Snezana Milosavljevic. In Round 1, we had to &lt;strong&gt;develop a method to classify unlabeled EEG sleep data from small rodents into three states: paradoxical sleep, slow-wave sleep, or wakefulness.&lt;/strong&gt;.The final round focused on addressing chronic sleep disorders by deploying a machine learning model, emphasizing the reliability and deployment readiness of our first-round model. Our team name was Neural Prognosticators (sounds cool, right?).&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/87a3c9f3983cc93c2889ab268fc9d3c9/2bef9/participating_team.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.9620253164557%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADMElEQVR42h1R7W9TdRTuv+IHP4yYGL8YMUQJCZMPqPjywWgI2QcXQogQw2JAR1jUOCIoXZjMEWRAukFZW9ZRabfajW5TbLu2a+/t7b1rx+3Lum5lfdttf7++3PN48SRPnpOTc56c5xxT5JGrLC8stVetj3jcNc/DNiePOB7z0OQ0F1weHrbaeNQ+w+OzT7gw4+LSEy+Pzrh5dNbDIwYHH0zzoOUmkz22dnrJUzIVEpIGXUe70USHcSPVgW4X2y1AYID4EhxIGByo6ojUdXQJRhD+p24Oef8xWr5/FIW5j2umic+O71m+6IN5/0EafbeXCmLiZR9JWxk6Zx+jb5236KPxQRr1O6lr1LfrnG57FRpzSzRsW6MRZ4RWgst6aUdCJrJYNZkPHNJG3nwHl3vewI+v9GB1ygq0OlgML+HVi8fQc+lTmL58HZ/fuoD1Ug7NSg2Lv93D46FreHjmEuau3ERGLVHLMJYR5Jrpxnvva38c/QTGdjC/dRDPnwVADQYxr+LE+E84OfELDl8ewJDjLlrtDupNDndgA44lGXfnRThW1lGuNaht+NqUDMHQ2fPaxnc/QDz7DZKnz8E/cgOiz4dcoQbzdS/Gxp/i+2EXHthCUOQi1M0KBu9H0Xd9Bb1Dc+j//R8oW3V60dSxEU/WTMHeI5r6wYeQ9r8Ncd8+pPv7sTnwNfIhCTZrDPbJVdgmw1jxKQh4BcjKNo5fWcDh8y68dvIhDgw4EUq9oN0mIR0zBJdPfKUlTl9E/NQgYn0D2JqwYts9D0UtwPLsOW77FfzsljD9twSvbwGFQhZC0A7hXwvEgAWq5IHerhJBR14Ua6aYY2ZvazWMnUSS6oUiVXNZYozTnpok9d4wqVNXSXP8SmWvhYq5DFWqZZLjXkpE/iQhNEuy8JTWU4qeyhrniMWrJuUvn1ZNpw3BBLRiEWx3F+36HtqVCuqyDC2bRatWRSWbQTmVQjlfxNRcHGO2AMZno7jjXsMFs51GrX7kk8ZTcrH4bpuxVrNWZ8zAhj/AsmKS5ZMKy0sKa5TKbC2yxhQlxVIxgeWiAsuEY2xTkFirobEOaxrDjabe7bRycWHnP8baykuK0HerAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/87a3c9f3983cc93c2889ab268fc9d3c9/f058b/participating_team.png&quot;
+        srcset=&quot;/blog/static/87a3c9f3983cc93c2889ab268fc9d3c9/c26ae/participating_team.png 158w,
+/blog/static/87a3c9f3983cc93c2889ab268fc9d3c9/6bdcf/participating_team.png 315w,
+/blog/static/87a3c9f3983cc93c2889ab268fc9d3c9/f058b/participating_team.png 630w,
+/blog/static/87a3c9f3983cc93c2889ab268fc9d3c9/40601/participating_team.png 945w,
+/blog/static/87a3c9f3983cc93c2889ab268fc9d3c9/2bef9/participating_team.png 1024w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;With only 17 hours to build a model and create a presentation for the first round, I knew sleep was off the table. The dataset, EEG data collected from rodents over two days, was massive—about 10GB! Handling such a large dataset was a first for me, and loading it on my local machine was a struggle. I decided to load the data in batches and perform exploratory data analysis (EDA) and preprocessing.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/51b19e7575e1addf6de66e43a23a14fc/01a87/data_eda.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 31.0126582278481%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAABYlAAAWJQFJUiTwAAABnUlEQVR42o2OT0hTAQDGHxtIO5rbMTBo4mxM3IuIFBXsIiymzkIYGBRKUEMSzGjO/xqikAiRzgkTKhtSCELQoWOgp/a2J+EjwW1odnhrDxFlbPv1fF069sHH7/Lx4xPefn7D/Oo64eUMK+/iRJdKLKzFWIlF+LK6y9LGJ159DBNdzus9I7KoEY3kmZ/bI/jsK5sbB2hHh6T2U6iqiuDtbMfuaKC58Qme20H8d9eoqWtCdIs8vjPCjZYOHG4X/q4YHd5FPK1zdLaFqbZ7uFBWyeDAazQtTyadIatmEURRRBAETCaTwf+t2Ww26PP5OE+xWDQo3KxvwGKxUXWliSp7M9fFbqy2SmzlVuprb3Hpcg0XK2xcq/PjutqGy+ml1tmu7xuxljsJPBo1RIVCgVKphBAI9tF1f4jh0HcGnm+yMAPdfSF6Hj5gfXabwORL7vX3Mjt1ysTwL6bHVGYmT3gxnmXo6U8+vM8ZQt3196GSUkgqe8hylsROhmT8mISiIO/KKFKarbhE8odMQsohxX/r1HTmkBPHSN800vsn/Js/uKkyYp+2L8kAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/51b19e7575e1addf6de66e43a23a14fc/f058b/data_eda.png&quot;
+        srcset=&quot;/blog/static/51b19e7575e1addf6de66e43a23a14fc/c26ae/data_eda.png 158w,
+/blog/static/51b19e7575e1addf6de66e43a23a14fc/6bdcf/data_eda.png 315w,
+/blog/static/51b19e7575e1addf6de66e43a23a14fc/f058b/data_eda.png 630w,
+/blog/static/51b19e7575e1addf6de66e43a23a14fc/40601/data_eda.png 945w,
+/blog/static/51b19e7575e1addf6de66e43a23a14fc/78612/data_eda.png 1260w,
+/blog/static/51b19e7575e1addf6de66e43a23a14fc/01a87/data_eda.png 1288w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The data given to us was broadly classified into three stages of sleep:
+Paradoxical sleep: REM stage with rapid eye movements and vivid dreaming; crucial for cognitive functions like memory consolidation.
+Slow-wave sleep: Deep sleep stage characterized by slow delta waves; vital for physical restoration and recovery.
+Wakefulness: Fully awake and alert; brain active, conscious of surroundings.&lt;/p&gt;
+&lt;p&gt;Initial analysis revealed a class imbalance between paradoxical sleep and the other stages. A good classification model must handle all labels without bias, so I knew this was a problem to solve. Time for some feature engineering! Drawing on my physics background, I added features such as:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;b&gt;Power Spectral Density (PSD) &lt;/b&gt;​: EEG signals can be classified based on their frequency content. The frequncey components of these singals can be used to classifiy them into the following bands.
+&lt;ul&gt;
+&lt;li&gt;Delta (0.5-4 Hz): Delta waves are usually associated with deep sleep ​&lt;/li&gt;
+&lt;li&gt;Theta (4-8 Hz): Theta waves are often observed during drowsiness or light sleep. ​&lt;/li&gt;
+&lt;li&gt;Alpha (8-13 Hz): Alpha waves are prominent when an individual is awake but relaxed.​&lt;/li&gt;
+&lt;li&gt;Beta (13-30 Hz): Beta waves are associated with active and alert mental activity.​&lt;/li&gt;
+&lt;li&gt;Gamma (30-100 Hz and above): Gamma waves are associated with high-level cognitive processes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Maximum Minimum Distance (MMD)&lt;/b&gt;​: ​ TMeasures the distance between the maximum and minimum points (amplitude) in each epoch.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Hjorth parameters​&lt;/b&gt;​: Characterize the signal&apos;s activity, mobility, and complexity.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Shannon entropy&lt;/b&gt;​​: Quantifies the information content or unpredictability of a signal.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Next, I experimented with different models. With labeled data, it was a typical supervised learning problem. The challenge was whether to use the entire dataset, which would increase training time, or sample from it for initial comparisons. With only 12 hours left, I opted to sample 30% of the data to test models like LSTM, Random Forest, and Gradient Boosting (XGBoost, LightGBM). The LSTM and XGBoost models performed best. To address class imbalance, I used methods like SMOTE and balanced sampling. After training on the entire dataset (~70%), XGBoost outperformed LSTM in both accuracy and F1 score. With just 4 hours left, I focused on creating our presentation deck. You can check it out &lt;a href=&quot;https://docs.google.com/presentation/d/1MbHzhTogJosec2Jt0jlLzf8lzIGcn9WX/edit?usp=sharing&amp;#x26;ouid=111199971333324653064&amp;#x26;rtpof=true&amp;#x26;sd=true&quot;&gt;here&lt;/a&gt;. Confident in our results, I continued refining the model instead of sleeping. We made it to the finals!&lt;/p&gt;
+&lt;p&gt;For the final round, I added more features, fine-tuned hyperparameters, and created an ensemble of the top models. We also had to measure our models&apos; reliability, a challenge in itself. Without any sleep, I updated our final deck and model iterations just an hour before the deadline. The last 34 hours were the most productive of my life, no doubt. When the results were announced, my anxiety turned into relief and excitement as we were declared &lt;a href=&quot;https://bigdata.sc.edu/5th-national-bdhs-case-competition/&quot;&gt;winners&lt;/a&gt;. We won $5k, which was pretty cool too. This hackathon was an incredible journey, from almost not participating to winning. It was quite an adventure!&lt;/p&gt;</content:encoded></item></channel></rss>
