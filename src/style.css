@@ -64,9 +64,10 @@
   --color-primary: #69c0ff; /* lighter shade of blue */
   --color-text: #e0e6ed; /* lighter shade for dark mode */
   --color-text-light: #b0b9c5; /* lighter shade for dark mode */
-  --color-heading: #d1dce5; /* lighter shade for headings */
+  --color-heading: white; /* lighter shade for headings */
   --color-heading-black: #ffffff; /* white for black headings */
   --color-accent: #3a3a3a; /* dark accent color */
+  --color-heading-white: #ffffff;
 }
 
 /* HTML elements */
@@ -150,12 +151,12 @@ h6 {
   color: var(--color-heading);
 }
 
-h2.dark,
-h3.dark,
-h4.dark,
-h5.dark,
-h6.dark {
-  color: var(--color-heading);
+body.dark h2,
+body.dark h3,
+body.dark h4,
+body.dark h5,
+body.dark h6 {
+  color: var(--color-heading-white);
 }
 
 h1 {
