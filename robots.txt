@@ -1,2 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://liquidslr.github.io/sitemap-index.xml
+Host: https://liquidslr.github.io
